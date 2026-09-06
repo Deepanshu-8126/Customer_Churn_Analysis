@@ -133,17 +133,7 @@ An interactive Power BI dashboard was built to track churn rate, revenue at risk
 ├── README.md
 ```
 
-## 9. How to Run
-
-```bash
-git clone <repo-url>
-cd customer-churn-analysis
-pip install pandas numpy matplotlib seaborn scipy
-jupyter notebook notebooks/customer_churn.ipynb
-```
-
----
 
 ## Author
 
-*(Deepanshu / LinkedIn / Portfolio link here)*
+*(Deepanshu Kapri )*
